@@ -18,7 +18,7 @@ The first part of our task is to actuall load to the data.  Here's how we would 
 2. Set a working directory
 
 ```{r setworkingdirectory}
-setwd("C:/Users/Ryan/Coursera/Reproducable_Research/Week_2/RepData_PeerAssessment1")
+unzip('activity.zip')
 ```
 
 3. Read the data and format the date field as a date
